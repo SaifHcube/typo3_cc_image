@@ -1,0 +1,2 @@
+# cat=Basic/enable; type=user[CoelnConcept\CcImage\Utility\ConfigurationUtility->checkWebp]; label=Test for webp support
+checkWebp=0
